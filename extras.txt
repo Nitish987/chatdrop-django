@@ -1,0 +1,5 @@
+Install uvicorn[standard] for websocket connections - Done on server
+Install django-dbbackup for database backup version 4.0.2 - Done on server
+Install google-cloud-vision for image detection version 3.4.4 - Done on server
+Install Deprecated for depraction any api version - Done on server
+Install beautifulsoup4 for web scrapping version 4.12.2 - Done on server
